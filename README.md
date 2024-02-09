@@ -11,11 +11,11 @@
 a makefile to compile and create a static library to use in the upcoming projects.<br>
 The bonus part cover the functions used to manipulate linked lists.
 <br><br>
-<b>The mandatory part</b>
+<b>The mandatory part</b><br>
 The mandatory part covers these functions:<br>
 <table>
 <tr><td>ft_isalpha.c</td><td>ft_isdigit.c</td><td>ft_isalnum.c</td><td>ft_isascii.c</td><td>ft_isprint.c</td></tr>
-ft_strlen.c ft_memset.c ft_bzero.c ft_memcpy.c ft_memmove.c ft_strlcpy.c
+<tr><td>ft_strlen.c</td><td>ft_memset.c</td>ft_bzero.c</td><td>ft_memcpy.c</td><td>ft_memmove.c</td><td>ft_strlcpy.c</td>
 ft_strlcat.c ft_toupper.c ft_tolower.c ft_strchr.c ft_strrchr.c ft_strncmp.c
 ft_memchr.c ft_memcmp.c ft_strnstr.c ft_atoi.c ft_calloc.c ft_strdup.c 
 ft_substr.c ft_strjoin.c ft_strtrim.c ft_itoa.c ft_strmapi.c ft_striteri.c 
