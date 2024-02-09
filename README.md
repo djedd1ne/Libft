@@ -16,8 +16,8 @@ The mandatory part covers these functions:<br>
 <table>
 <tr><td>ft_isalpha.c</td><td>ft_isdigit.c</td><td>ft_isalnum.c</td><td>ft_isascii.c</td><td>ft_isprint.c</td></tr>
 <tr><td>ft_strlen.c</td><td>ft_memset.c</td>ft_bzero.c</td><td>ft_memcpy.c</td><td>ft_memmove.c</td><td>ft_strlcpy.c</td>
-ft_strlcat.c ft_toupper.c ft_tolower.c ft_strchr.c ft_strrchr.c ft_strncmp.c
-ft_memchr.c ft_memcmp.c ft_strnstr.c ft_atoi.c ft_calloc.c ft_strdup.c 
+<tr><td>ft_strlcat.c</td><td>ft_toupper.c</td><td>ft_tolower.c</td><td>ft_strchr.c</td><td>ft_strrchr.c</td><td>ft_strncmp.c</td></tr>
+<tr><td>ft_memchr.c</td><td>ft_memcmp.c</td><td>ft_strnstr.c</td><td>ft_atoi.c</td><td>ft_calloc.c</td><td>ft_strdup.c</td></tr>
 ft_substr.c ft_strjoin.c ft_strtrim.c ft_itoa.c ft_strmapi.c ft_striteri.c 
 ft_putchar_fd.c ft_putstr_fd.c ft_putendl_fd.c ft_putnbr_fd.c ft_split.c
 </table>
