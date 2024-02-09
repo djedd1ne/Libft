@@ -19,5 +19,5 @@ The mandatory part covers these functions:<br>
 <tr><td>ft_strlcat.c</td><td>ft_toupper.c</td><td>ft_tolower.c</td><td>ft_strchr.c</td><td>ft_strrchr.c</td></tr>
 <tr><td>ft_strncmp.c</td><td>ft_memchr.c</td><td>ft_memcmp.c</td><td>ft_strnstr.c</td><td>ft_atoi.c</td></tr>
 <tr><td>ft_calloc.c</td><td>ft_strdup.c</td><td>ft_substr.c</td><td>ft_strjoin.c</td><td>ft_strtrim.c</td></tr> 
-<tr>t_itoa.c ft_strmapi.c ft_striteri.cft_putchar_fd.c ft_putstr_fd.c ft_putendl_fd.c ft_putnbr_fd.c ft_split.c</tr>
+<tr><td>ft_itoa.c</td><td>ft_strmapi.c</td><td>ft_striteri.c</td><td>ft_putchar_fd.c</td><td>ft_putstr_fd.c</td><td>ft_putendl_fd.c</td> <td>ft_putnbr_fd.c</td><td>ft_split.c</td></tr>
 </table>
