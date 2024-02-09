@@ -23,7 +23,7 @@ The mandatory part covers these functions:<br>
 <tr><td>ft_putstr_fd.c</td><td>ft_putendl_fd.c</td> <td>ft_putnbr_fd.c</td><td>ft_split.c</td></tr>
 </table>
 <br><br>
-<b>The Bonus Part</b>
+<b>The Bonus Part</b><br>
 The Bonus part covers functions related to linked list
 <table>
 <tr><td>ft_lstnew.c</td><td>ft_lstadd_front.c</td><td>ft_lstlast.c</td><td>ft_lstsize.c</td><td>ft_lstadd_back.c</td></tr>
