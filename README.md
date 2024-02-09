@@ -26,6 +26,6 @@ The mandatory part covers these functions:<br>
 <b>The Bonus Part</b>
 The Bonus part covers functions related to linked list
 <table>
-<tr><td>ft_lstnew.c</td><td>ft_lstadd_front.c</td><td>ft_lstlast.c</td><td>ft_lstsize.c</td></tr>
-<tr><td>ft_lstadd_back.c</td><td>ft_lstdelone.c</td><td>ft_lstclear.c</td><td>ft_lstiter.c</td><td>ft_lstmap.c</td>
+<tr><td>ft_lstnew.c</td><td>ft_lstadd_front.c</td><td>ft_lstlast.c</td><td>ft_lstsize.c</td><td>ft_lstadd_back.c</td></tr>
+<tr><td>ft_lstdelone.c</td><td>ft_lstclear.c</td><td>ft_lstiter.c</td><td>ft_lstmap.c</td>
 </table>
