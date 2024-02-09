@@ -11,7 +11,7 @@
 a makefile to compile and create a static library to use in the upcoming projects.<br>
 The bonus part cover the functions used to manipulate linked lists.
 <br><br>
-<b>The mandatory part</b><br>
+<b>The Mandatory Part</b><br>
 The mandatory part covers these functions:<br>
 <table>
 <tr><td>ft_isalpha.c</td><td>ft_isdigit.c</td><td>ft_isalnum.c</td><td>ft_isascii.c</td><td>ft_isprint.c</td></tr>
@@ -21,4 +21,11 @@ The mandatory part covers these functions:<br>
 <tr><td>ft_atoi.c</td><td>ft_calloc.c</td><td>ft_strdup.c</td><td>ft_substr.c</td><td>ft_strjoin.c</td></tr> 
 <tr><td>ft_strtrim.c</td><td>ft_itoa.c</td><td>ft_strmapi.c</td><td>ft_striteri.c</td><td>ft_putchar_fd.c</td></tr>
 <tr><td>ft_putstr_fd.c</td><td>ft_putendl_fd.c</td> <td>ft_putnbr_fd.c</td><td>ft_split.c</td></tr>
+</table>
+<br><br>
+<b>The Bonus Part</b>
+The Bonus part covers functions related to linked list
+<table>
+<tr><td>ft_lstnew.c</td><td>ft_lstadd_front.c</td><td>ft_lstlast.c</td><td>ft_lstsize.c</td></tr>
+<tr><td>ft_lstadd_back.c</td><td>ft_lstdelone.c</td><td>ft_lstclear.c</td><td>ft_lstiter.c</td><td>ft_lstmap.c</td>
 </table>
